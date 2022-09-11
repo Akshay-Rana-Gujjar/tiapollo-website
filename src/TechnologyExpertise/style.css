@@ -1,0 +1,10 @@
+.technology-expertise-main-container {
+  background-color: rgb(235, 243, 255);
+  /* top: -20%; */
+}
+.technology-underlne {
+  margin-bottom: 150px;
+  width: 100px;
+  height: 5px;
+  background-color: rgb(117, 142, 167);
+}

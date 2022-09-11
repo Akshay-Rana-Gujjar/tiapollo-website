@@ -1,0 +1,80 @@
+.about-us-parent-container {
+  background-color: rgb(235, 243, 255);
+  text-align: center;
+}
+.about-us {
+  font-family: lato, sans-serif;
+  font-size: 48px;
+  color: rgb(30, 53, 71);
+}
+.about-us-underline {
+  width: 100px;
+  height: 5px;
+  background-color: rgb(117, 142, 167);
+}
+.about-us-we-at-tiapollo-container {
+  /* text-align: center; */
+  font-size: 24px;
+  font-weight: 100;
+  margin-bottom: 40px;
+  /* color: rgb(128, 128, 128); */
+}
+.who-we-are-and-what-we-do-container {
+  text-align: end;
+}
+.who-we-are-sub-cont {
+  font-size: 14px;
+}
+.what-we-do-sub-cont {
+  font-size: 14px;
+}
+.middle-icon-container {
+  /* flex-wrap: wrap; */
+}
+.username {
+  background-color: rgb(117, 142, 167);
+  width: 70px;
+  height: 70px;
+  border-radius: 10px;
+  padding: 10px;
+  /* flex: 50%; */
+}
+.user-img {
+  width: 35px;
+  height: 35px;
+}
+.our-mission-and-we-love-client-container {
+  text-align: start;
+}
+.our-mission-sub-container {
+  font-size: 14px;
+}
+.we-love-our-client-sub-cont {
+  font-size: 14px;
+}
+@media (max-width: 500px) {
+  .who-we-are-our-mission-parent-cont {
+    flex-direction: column;
+  }
+  .who-we-are-and-icon-container {
+    flex-direction: column-reverse;
+  }
+  .what-we-do-and-icon-container {
+    flex-direction: column-reverse;
+  }
+  .we-love-and-icon-container {
+    flex-direction: column;
+  }
+  .our-mission-and-icon-container {
+    flex-direction: column;
+  }
+  .who-we-are-and-what-we-do-container {
+    text-align: center;
+  }
+  .our-mission-and-we-love-client-container {
+    text-align: center;
+  }
+  .username {
+    margin-bottom: 20px;
+  }
+}

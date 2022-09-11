@@ -1,0 +1,69 @@
+.work-progress-main-parent-container {
+  background-color: white;
+  text-align: center;
+}
+.work-progress-text-container {
+  color: rgb(0, 93, 180);
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 30px;
+  text-transform: uppercase;
+  margin-top: 50px;
+}
+.work-progress-our-progress-text {
+  font-weight: 500;
+}
+.work-progress-lets-discuss-text-container {
+  font-size: 18px;
+  font-weight: 600;
+}
+.work-progress-blueprint-discussion-text-container {
+  font-size: 18px;
+  font-weight: 600;
+}
+.work-progress-execute-deliver-text-container {
+  font-size: 18px;
+  font-weight: 600;
+}
+/* .work-progress-ideal-discussion-main-parent-container {
+} */
+.work-progress-idea-discussion-img-container {
+  background-color: rgb(83, 168, 97);
+  border-radius: 33px;
+  width: 200px;
+  padding: 72px 50px;
+  margin-bottom: 40px;
+}
+.idea-img {
+  width: 100px;
+  height: 100px;
+}
+.work-progress-blueprint-discussion-img-container {
+  background: rgb(105, 129, 255);
+  /* same code as above */
+  border-radius: 33px;
+  width: 200px;
+  padding: 72px 50px;
+  margin-bottom: 40px;
+}
+.work-progress-execute-discussion-img-container {
+  background: rgb(45, 67, 84);
+  /* same code as above */
+  border-radius: 33px;
+  width: 200px;
+  padding: 72px 50px;
+  margin-bottom: 40px;
+}
+@media (max-width: 500px) {
+  .work-progress-all-child-parent-container {
+    justify-content: center;
+    align-items: center;
+  }
+  .work-progress-ideal-discussion-main-parent-container {
+    margin-right: 0px;
+    margin-bottom: 20px;
+  }
+  .work-progress-ideal-discussion-main-parent-container {
+    margin-right: 0px !important;
+  }
+}
