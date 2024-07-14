@@ -24,7 +24,7 @@ export default function TechnologyExpertise() {
           desc={
             <>
               Python, Nodejs, Message Broker <br />
-              RabbitMQ, Amazon Wen Services etc.
+              RabbitMQ, Amazon Web Services etc.
             </>
           }
         />

@@ -11,7 +11,7 @@ export default function AboutUs() {
       <div className="about-us fw-bold mb-1 ">ABOUT US</div>
       <div className="about-us-underline mb-4 "></div>
       <div className="about-us-we-at-tiapollo-container text-muted">
-        We at Tiapollo, provide Smart & Innovative solutions using latest
+        We at Euclid, provide Smart & Innovative solutions using latest
         Technologies.
       </div>
       <div className="who-we-are-our-mission-parent-cont d-flex justify-content-between ">

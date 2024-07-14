@@ -41,10 +41,10 @@ export default function NavBar() {
               </li>
             </ul>
 
-            <div className="d-flex mail-info-container">
+            <div className="d-flex flex-sm-row flex-column mail-info-container justify-content-center align-items-center">
               <div className="main-container">Mail</div>
               <div className="contact-info">
-                Contact us at: info@tiapollo.com
+                commercial@euclidcommunication.com
               </div>
             </div>
           </div>

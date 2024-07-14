@@ -32,7 +32,7 @@ export default function FooterSection() {
         <input>Submit</input>
       </div> */}
       <div className="footer-section-copyright-section fw-bold text-muted mb-3">
-        Copyright @ TIAPOLLO TECHNOLOGIES
+        Copyright @ Euclid Communication
       </div>
     </div>
   );
